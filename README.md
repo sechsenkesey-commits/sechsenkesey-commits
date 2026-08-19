@@ -13,7 +13,7 @@
 * **Major:** [Computer Science]
 * **Year:** [1st Year]
 * **Favorite App:** [Chat GPT:/]
-* **Interests:** [Coding ]
+* **Interests:** [Coding]
 
 ---
 
