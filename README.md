@@ -3,8 +3,6 @@
 
 ### [Learning, Coding & Growing]
 
-[Write 1–2 simple sentences about yourself.]
-
 ---
 
 ## About Me
